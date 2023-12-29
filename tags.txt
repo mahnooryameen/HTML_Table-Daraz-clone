@@ -1,0 +1,34 @@
+ALL:
+
+h1 - h6
+paragraph                                    p
+image                                   <img src="" alt="">
+underline                                     u
+bold                                          b
+italic                                        i
+font for color/size                          font
+line break                                    br
+horizontal line                                  hr
+table                                table, thead, tbody, tfoot, tr, td, th
+smaller show krny                           small
+emphasize/italic                                em
+strong/bold                                  strong
+delete plus insert                           del, ins
+subscript/superscript                        sub/sup
+middle mai aye                                blockquote
+refernce                              blockquote main cite attribute
+inverted comma                                    q
+to show curser hover detail                                abbr
+address k liye                                              address
+direction                                                   bdo, dir, dir in body tag
+other's content                                            iframe
+text move krwana                                           marque
+
+list                                                       ul, ol, dl, li    for nested  li k ander another list
+in dl, dt as li, then dd comes in dl
+
+details dropdown                                           detail with summary tag
+                                                           div   and  section
+
+
+
